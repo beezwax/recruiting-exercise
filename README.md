@@ -4,7 +4,7 @@ This repo presents a base Rails 5 install for the standard Beezwax recruiting ex
 
 Clone like so:
 
-    NAME="Beezwax-Your-Name" git clone git@github.com:beezwax/recruiting-exercise.git "$NAME" && cd "$NAME"
+    git clone git@github.com:beezwax/recruiting-exercise.git Beezwax-Your-Name && cd Beezwax-Your-Name && bundle install
 
 It was created like this:
 
