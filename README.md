@@ -13,7 +13,7 @@ We'd prefer not to have solutions to the exercise around in the wild. Please do 
 At the scheduled time of your exercise, you will receive instructions on what to build. We'll send your solution around the team for review; you should hear back from us within a day or two.
 
 ## Submit the exercise using Email
-If you don't want to use GitHub, once you're done, please zip up your solution and return it to us, simply email it at careers@beezwax.net.
+Once you're done, please zip up your solution and return it to us, simply email it at careers@beezwax.net.
 
 ### Using Gmail
 Gmail now blocks attachments with javascript files (as well as compressed archives that include js files).
