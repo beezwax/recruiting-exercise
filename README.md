@@ -8,7 +8,7 @@ Clone like so:
 Both MiniTest and Rspec are available, and it includes haml. Feel free to use any library you want.
 
 ## Do not create a public repo
-We'd prefer not to have solutions to the exercise around in the wild. Please do *not* create a public repo. Instead, either submit your solution via pull request against this repo (so we can make a local copy of, and then delete, your branch), or via email.
+We'd prefer not to have solutions to the exercise around in the wild. Please do *not* create a public repo.
 
 At the scheduled time of your exercise, you will receive instructions on what to build. We'll send your solution around the team for review; you should hear back from us within a day or two.
 
