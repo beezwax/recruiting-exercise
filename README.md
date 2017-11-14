@@ -10,13 +10,6 @@ Both MiniTest and Rspec are available, and it includes haml. Feel free to use an
 ## Do not create a public repo
 We'd prefer not to have solutions to the exercise around in the wild. Please do *not* create a public repo. Instead, either submit your solution via pull request against this repo (so we can make a local copy of, and then delete, your branch), or via email.
 
-## Submit the exercise using GitHub
-The recommended way to submit the exercise is to create a new branch with your solution simply make a new PR to this repo:
-
-    git checkout -b Your-Name
-
-To keep things organized, the branch should be your full name.
-
 At the scheduled time of your exercise, you will receive instructions on what to build. We'll send your solution around the team for review; you should hear back from us within a day or two.
 
 ## Submit the exercise using Email
